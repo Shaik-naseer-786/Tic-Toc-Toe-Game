@@ -1,6 +1,8 @@
 # Tic Tac Toe Game in React
 
 A simple Tic Tac Toe game built using React and Webpack. The game allows two players to take turns marking spaces in a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
+## Preview of the App
+-  https://tictoctoegameusingreact.netlify.app/
 ## Features
 
 - Two-player game
