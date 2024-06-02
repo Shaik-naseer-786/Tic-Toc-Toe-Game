@@ -61,4 +61,5 @@ Configuration file for Webpack, handling the bundling of JavaScript and CSS file
 
 ## Acknowledgments
 **React documentation:** https://reactjs.org/docs/getting-started.html
+
 **Webpack documentation:** https://webpack.js.org/concepts/
